@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/que-je-taime/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Que Je T'aime](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/que-je-taime/) |
+| **Get License** | [License this song: Que Je T'aime](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/que-je-taime/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Que je t'aime, dans la nuit tu brilles comme un diamant
+> Mon cœur bat fort sur le dancefloor, c'est tellement tentant
+> Tes regards me disent oui, la magie flotte dans l'air
+> Viens plus près de moi, oublions tout ce qui nous perd
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
