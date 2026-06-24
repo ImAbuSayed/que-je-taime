@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Que Je T'aime
+
+This log tracks the cryptographic history and versioning for the song **Que Je T'aime** (que-je-taime).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T19:34:06.434874 | `v1` | `9a707ae7cefc2634aa860e3418726e1b44c785c133b5add26a0397cd04b43072` | `af76feef0fd39a030d7de9f50137421c07e5e29f6069f3d3471b25aa57351c39` | `2026-06-24_que-je-taime-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
